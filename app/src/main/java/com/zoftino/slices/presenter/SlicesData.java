@@ -25,6 +25,7 @@ public class SlicesData {
             sliceUrls.put("couponDynamic", "couponDynamic");
             sliceUrls.put("couponDelay", "couponDelay");
             sliceUrls.put("couponDelayOne", "couponDelayone");
+            sliceUrls.put("couponDelaytwo", "couponDelaytwo");
 
 
         }
